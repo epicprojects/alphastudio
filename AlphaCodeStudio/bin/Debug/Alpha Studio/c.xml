@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+	<AutoComplete>
+		<KeyWord name="printf" func="yes">
+			<Overload retVal="void">
+				<Param name="void"/>
+			</Overload>
+		</KeyWord>
+		
+		<KeyWord name="scanf" func="yes">
+			<Overload retVal="void">
+				<Param name="void"/>
+			</Overload>
+		</KeyWord>
+		
+	</AutoComplete>
+</NotepadPlus>

@@ -1,0 +1,25 @@
+new page test_page
+
+set title = testing Web Assembler Language Kit
+set meta = my genrated website,for testing,omer shafiq
+
+add css = default.css
+
+add img = header_image.jpg,header image,header,absolute,hidden,0,0,267,846,0
+add img = footer_image.jpg,footer image,footer,absolute,hidden,0,900,160,846,0
+
+set color = white,black
+
+add text = This my generated website,b:i,,absolute,hidden,20,30,200,500,0,Times New Roman,62,white
+add text = All Rights Reserved Copyrights,,,absolute,hidden,50,920,100,500,0,Times New Roman,20,white
+
+add text = This is H1,h1,,absolute,hidden,50,280,200,500,0,arial,,red
+add text = This is H2,h2,,absolute,hidden,50,320,200,500,0,arial,,green
+add text = This is H6,h6:i,,absolute,hidden,50,350,200,500,0,arial,,yellow
+
+add text = This is a hyperlink,b:i,http://www.google.com,absolute,hidden,50,380,200,500,0,arial,26,yellow
+
+add img = bus.png,bus image,bus,absolute,hidden,50,480,267,846,0,http://www.facebook.com
+
+
+end page test_page
